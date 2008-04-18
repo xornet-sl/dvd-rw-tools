@@ -1,4 +1,3 @@
-# $Id: PKGBUILD,v 1.22 2008/03/09 22:31:19 eric Exp $
 # Maintainer: damir <damir@archlinux.org>
 
 pkgname=dvd+rw-tools
